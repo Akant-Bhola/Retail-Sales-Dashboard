@@ -42,6 +42,7 @@ Built using **Pivot Tables, Slicers, and Form Controls (scroll bars, checkboxes)
 |------|--------------|
 | `Retail_Sales_Dashboard.xlsx` | Main interactive Excel dashboard |
 | `dashboard_preview.png` | Screenshot preview |
+| `Retail_Sales_Dashboard_Demo.mov` | Interactive video preview |
 | `README.md` | Project overview |
 
 ---
